@@ -1,0 +1,76 @@
+body{
+    background-image: url(/public/image/fondo.avif);
+}
+
+#header{
+    width:600px;
+	margin:auto;
+    margin-top: 5%;
+}
+
+#main{
+    text-align: center;
+    width:600px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+    margin-top: 2%;
+}
+
+
+
+#btn{
+    width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+}
+
+#listContact{
+    width:600px;
+	margin:auto;
+    margin-top: 5%;
+}
+
+#contacts {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #000;
+	border-radius:5px;
+    align-items: center;
+    background-color:#ccc;
+    text-align: center;
+    width:600px;
+    text-align: center;
+}
+
+
+table th {
+    width:600px;
+    color:#fff;
+	background-color:#000;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: .5em;
+    padding-right: .5em;
+    text-align: center;
+    border-bottom: solid .1em white;
+    font-size: .9em;
+    margin-left: 20%;
+}
+
+table td {
+    color:#fff;
+	background-color:#000;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: .5em;
+    padding-right: .5em;
+    border-bottom: solid .05em white;
+    text-shadow: -1px -1px rgba(255, 255, 255, .3);
+}
